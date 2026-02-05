@@ -1,0 +1,10 @@
+post http://localhost:3001/api/habits
+Content-Type: application/json
+
+{
+  "name": "Solve LeetCode Problems",
+  "goal": 2,
+  "unit": "problems",
+  "category": "Work",
+  "color": "#f59e0b"
+}

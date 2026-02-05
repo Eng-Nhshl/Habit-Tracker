@@ -1,0 +1,11 @@
+put http://localhost:3001/api/habits/6984f4dda36cd2b7a8a17688
+Content-Type: application/json
+
+{
+  "name": "Drink Water",
+  "goal": 12,
+  "unit": "glasses",
+  "category": "Health",
+  "color": "#0ea5e9",
+  "completedDates": ["2026-02-01", "2026-02-02", "2026-02-05"]
+}

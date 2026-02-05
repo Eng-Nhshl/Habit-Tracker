@@ -1,0 +1,4 @@
+get http://localhost:3001/api/habits
+
+###
+get http://localhost:3001/api/habits/6984f358a36cd2b7a8a1767f

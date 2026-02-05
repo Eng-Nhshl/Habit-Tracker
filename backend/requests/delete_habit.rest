@@ -1,0 +1,1 @@
+delete http://localhost:3001/api/habits/6984f4dda36cd2b7a8a17688
