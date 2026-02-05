@@ -94,11 +94,6 @@ The project utilizes a robust Mongoose schema to ensure data integrity:
 }
 
 ```
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
 
 ### 🤝 Contributing
