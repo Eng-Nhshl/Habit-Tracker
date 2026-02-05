@@ -71,14 +71,6 @@ npm run dev
 
 ```
 
-## 📸 Screenshots
-
-> _Tip: Replace these placeholders with your actual app screenshots later!_
-
-- **Dashboard**: Overview of all active habits.
-- **Creation**: Beautiful color-coded habit formation.
-- **Success**: Real-time streak updates and progress animations.
-
 ## 🧠 Core Concept: The Atomic Schema
 
 The project utilizes a robust Mongoose schema to ensure data integrity:
@@ -92,9 +84,6 @@ The project utilizes a robust Mongoose schema to ensure data integrity:
   color: "#6366f1",
   completedDates: ["2026-02-05", "2026-02-06"]
 }
-
-```
----
 
 ### 🤝 Contributing
 
